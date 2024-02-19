@@ -17,13 +17,13 @@ N/A
 To use the webpage first open the link, and right click on the page. Click on inspect to open the Chrome Dev Tools in order to see the console.
 
 
-![Inspect Code](assets/images/inspect.png)
+![Inspect Code](https://github.com/AranosBanazir/prework-study-guide/blob/feature/project-README/assets/Images/inspect.png)
 
 
 After clicking on inspect you should see something like this:
 
 
-![Chrome Devtools console](assets/images/Console.png)
+![Chrome Devtools console](https://github.com/AranosBanazir/prework-study-guide/blob/feature/project-README/assets/Images/Console.png)
 
 Here you should see a list of the covered topics, as well as a suggestion on what to start studying.
 
