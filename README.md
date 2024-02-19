@@ -17,13 +17,13 @@ N/A
 To use the webpage first open the link, and right click on the page. Click on inspect to open the Chrome Dev Tools in order to see the console.
 
 ```md
-![alt text](assets/images/inspect.png)
+![Inspect Code](prework-study-guide/assets/images/inspect.png)
 ```
 
 After clicking on inspect you should see something like this:
 
 ```md
-![alt text](assets/images/Console.png)
+![Chrome Devtools console](prework-study-guide/assets/images/Console.png)
 ```
 
 Here you should see a list of the covered topics, as well as a suggestion on what to start studying.
